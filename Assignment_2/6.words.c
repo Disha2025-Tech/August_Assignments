@@ -22,7 +22,7 @@ int main()
 }
 
 /*
-Sample Run:
+OUTPUT
 
 Enter a sentence: In my company
 Number of words: 3
